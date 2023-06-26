@@ -1,5 +1,9 @@
-# Typing Speed Test Website
+# Typing Speed Test Website 
 
+### [Website Live Demo](https://mihir-rathod.github.io/Typing-speed-test/) 
+
+
+## Overview
 This project “Typing Speed Test” is a website that will generate a random quote/paragraph via an API and it will be provided to the user. The user has to type out the quote/paragraph and the results will appear as soon as the user complete it. The Time taken to complete the quote/paragraph in seconds (s), Typing Speed in Words per minute (WPM), Total keystrokes, Correct keystrokes, Incorrect keystrokes and accuracy in percentage (%) will be displayed as the results. And if you want to skip the quote, you can press the button ‘Next Quote’ OR (Tab + Enter) and a new Quote will be generated.
 
 ## Features
